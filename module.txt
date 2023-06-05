@@ -1,0 +1,8 @@
+pyttsx3
+speechResognition
+wikipedia 
+
+
+
+
+aujcmtjrdcciytkq
